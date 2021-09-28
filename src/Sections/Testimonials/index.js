@@ -84,7 +84,7 @@ const Testimonials = () => {
       <Carousal>
         <Slider {...settings}>
           <Card
-            text="Ticknpay has been essential part of our business. I would definetly
+            text="Ticknpay has been essential part of our business. I will definetly
         recommend Ticknpay. It has been amazing to have them."
             name="Jenny (CodeCall)"
             image="avatar-1"
